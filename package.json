@@ -1,0 +1,23 @@
+{
+  "name": "09node",
+  "version": "1.0.0",
+  "description": "Homework for 09 Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willtham1/09Node.git"
+  },
+  "author": "Willtham1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willtham1/09Node/issues"
+  },
+  "homepage": "https://github.com/willtham1/09Node#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "mongodb": "^3.6.5"
+  }
+}
